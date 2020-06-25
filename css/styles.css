@@ -737,7 +737,7 @@ body .pagination li a,
 
 /*BACKGROUNG IMAGES FOR HEADER*/
 .amaezi-fullscreen-header{
-    background-image: url("../img/header-banners/houslr_banner.jpg");
+    background-image: url("../img/header-banners/home-banner.jpg");
 }
 .page-single-blog .amaezi-fullscreen-header{
     background-image: url("../img/header-banners/hauslr_single_article.jpg");
