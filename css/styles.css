@@ -431,6 +431,9 @@ body{
     background: #fff;
 }
 
+.center {
+    align-content: center;
+}
 
 /*NORMAL COLOR*/
 footer {
