@@ -1,3 +1,17 @@
+/* If the screen size is 600px wide or less, hide the element */
+@media screen and (max-width: 600px) {
+  #yearly-calendar {
+    display: none;
+  }
+}
+
+/* If the screen size is 600px wide or less, hide the element */
+@media screen and (min-width: 601px) {
+  #monthly-calendar {
+    display: none;
+  }
+}
+
 /*------------------------------------------------------------------
 [Main Stylesheet]
 
